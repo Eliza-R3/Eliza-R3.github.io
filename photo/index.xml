@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Eliza.R&#39;s Blog</title>
+    <link>https://Eliza-R3.github.io/photo/</link>
+    <description>Recent content in Photos on Eliza.R&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC-ND 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Eliza-R3.github.io/photo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这是一个测试！</title>
+      <link>https://Eliza-R3.github.io/photo/test/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Eliza-R3.github.io/photo/test/</guid>
+      <description>Hey there!
+这篇文章是一个测试！
+我会用它来实验Markdown的书写方法
+比如粗体、斜体
+ 或是我的书单   《Neuromancer》William Gibson
+  《A Scanner Darkly》Philip K. Dick
+   也可以是电影   《Сталкер》（1979）
+  《Blade Runner》（1982）
+   甚至是图片
+ 如果你看到了这行字，说明我还没有解决如何插入图片的问题，哈哈哈
+ 进度  我没在开玩笑！这只是“技术性调整”，不要慌！ 我相信它很快就能开始正常使用了，届时我会将一些原先记录于纸上的笔记录入到这里
+  Eliza
+Written with StackEdit.</description>
+    </item>
+    
+  </channel>
+</rss>
