@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://Eliza-R3.github.io/album/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Eliza-R3.github.io/art/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
@@ -28,17 +33,12 @@
   </url>
   
   <url>
+    <loc>https://Eliza-R3.github.io/film/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Eliza-R3.github.io/movie/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Eliza-R3.github.io/music/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Eliza-R3.github.io/photo/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,22 +48,22 @@
   </url>
   
   <url>
+    <loc>https://Eliza-R3.github.io/album/test/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Eliza-R3.github.io/art/test/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://Eliza-R3.github.io/film/test/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Eliza-R3.github.io/movie/test/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Eliza-R3.github.io/music/test/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Eliza-R3.github.io/photo/test/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Movies on Eliza.R&#39;s Blog</title>
-    <link>https://Eliza-R3.github.io/movie/</link>
-    <description>Recent content in Movies on Eliza.R&#39;s Blog</description>
+    <title>Films on Eliza.R&#39;s Blog</title>
+    <link>https://Eliza-R3.github.io/film/</link>
+    <description>Recent content in Films on Eliza.R&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC-ND 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Eliza-R3.github.io/movie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Eliza-R3.github.io/film/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>这是一个测试！</title>
-      <link>https://Eliza-R3.github.io/movie/test/</link>
+      <link>https://Eliza-R3.github.io/film/test/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://Eliza-R3.github.io/movie/test/</guid>
+      <guid>https://Eliza-R3.github.io/film/test/</guid>
       <description>Hey there!
 这篇文章是一个测试！
 我会用它来实验Markdown的书写方法
